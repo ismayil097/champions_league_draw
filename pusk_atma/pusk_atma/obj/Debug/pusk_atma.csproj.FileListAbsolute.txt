@@ -1,0 +1,9 @@
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.csprojResolveAssemblyReference.cache
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.Form1.resources
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.Properties.Resources.resources
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.csproj.GenerateResource.Cache
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\bin\Debug\pusk_atma.exe.config
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\bin\Debug\pusk_atma.exe
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\bin\Debug\pusk_atma.pdb
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.exe
+c:\users\iso\documents\visual studio 2017\Projects\pusk_atma\pusk_atma\obj\Debug\pusk_atma.pdb
